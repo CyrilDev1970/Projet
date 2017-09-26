@@ -8,74 +8,77 @@
 
 namespace AppBundle\Entity;
 
+use FOS\UserBundle\Model\User as BaseUser;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Entity
- * @ORM\Table(name="client")
+ * @ORM\Table(name="User")
  */
-class Client
+class User extends BaseUser
 {
     /**
      * @ORM\Column(type="integer")
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="AUTO")
      */
-    private $idClient;
+    protected $idUser;
 
     /**
      * @ORM\Column(name="nom", type="string", length=45)
      */
-    private $nom;
+    protected $nom;
 
     /**
      * @ORM\Column(name="prenom", type="string", length=45)
      */
-    private $prenom;
+    protected $prenom;
 
     /**
-     * @ORM\Column(name="dateNaissance", type="string", length=45)
+     * @ORM\Column(name="dateNaissance", type="date", nullable=true)
      */
-    private $dateNaissance;
+    protected $dateNaissance;
 
     /**
-     * @ORM\Column(name="adresse", type="string", length=180)
+     * @ORM\Column(name="adresse", type="string", length=180, nullable=true)
      */
-    private $adresse;
+    protected $adresse;
 
     /**
-     * @ORM\Column(name="telephone", type="string", length=12)
+     * @ORM\Column(name="telephone", type="string", length=12, nullable=true)
      */
-    private $telephone;
+    protected $telephone;
 
     /**
-     * @ORM\Column(name="numeroPermis", type="string", length=25)
+     * @ORM\Column(name="numeroPermis", type="string", length=25, nullable=true)
      */
-    private $numeroPermis;
+    protected $numeroPermis;
 
     /**
      * @ORM\Column(name="mail", type="string", length=50)
      */
-    private $mail;
+    protected $mail;
 
     /**
-     * @ORM\Column(name="password", type="string", length=45)
+     * @ORM\Column(name="role", type="integer")
+     * @ORM\OneToOne(targetEntity="Roles")
+     * @ORM\JoinColumn(name="idRole", referencedColumnName="idRole")
      */
-    private $password;
+    protected $role;
+
+    public function __construct()
+    {
+        parent::__construct();
+    }
 
     /**
-     * @ORM\Column(name="role", type="string", length=45)
-     */
-    private $role;
-
-    /**
-     * Get idClient
+     * Get idUser
      *
      * @return integer
      */
-    public function getIdClient()
+    public function getIdUser()
     {
-        return $this->idClient;
+        return $this->idUser;
     }
 
     /**
@@ -83,7 +86,7 @@ class Client
      *
      * @param string $nom
      *
-     * @return Client
+     * @return User
      */
     public function setNom($nom)
     {
@@ -107,7 +110,7 @@ class Client
      *
      * @param string $prenom
      *
-     * @return Client
+     * @return User
      */
     public function setPrenom($prenom)
     {
@@ -127,35 +130,11 @@ class Client
     }
 
     /**
-     * Set dateNaissance
-     *
-     * @param string $dateNaissance
-     *
-     * @return Client
-     */
-    public function setDateNaissance($dateNaissance)
-    {
-        $this->dateNaissance = $dateNaissance;
-
-        return $this;
-    }
-
-    /**
-     * Get dateNaissance
-     *
-     * @return string
-     */
-    public function getDateNaissance()
-    {
-        return $this->dateNaissance;
-    }
-
-    /**
      * Set adresse
      *
      * @param string $adresse
      *
-     * @return Client
+     * @return User
      */
     public function setAdresse($adresse)
     {
@@ -179,7 +158,7 @@ class Client
      *
      * @param string $telephone
      *
-     * @return Client
+     * @return User
      */
     public function setTelephone($telephone)
     {
@@ -203,7 +182,7 @@ class Client
      *
      * @param string $numeroPermis
      *
-     * @return Client
+     * @return User
      */
     public function setNumeroPermis($numeroPermis)
     {
@@ -227,7 +206,7 @@ class Client
      *
      * @param string $mail
      *
-     * @return Client
+     * @return User
      */
     public function setMail($mail)
     {
@@ -251,7 +230,7 @@ class Client
      *
      * @param string $password
      *
-     * @return Client
+     * @return User
      */
     public function setPassword($password)
     {
@@ -275,7 +254,7 @@ class Client
      *
      * @param string $role
      *
-     * @return Client
+     * @return User
      */
     public function setRole($role)
     {
@@ -292,5 +271,29 @@ class Client
     public function getRole()
     {
         return $this->role;
+    }
+
+    /**
+     * Set dateNaissance
+     *
+     * @param \DateTime $dateNaissance
+     *
+     * @return User
+     */
+    public function setDateNaissance($dateNaissance)
+    {
+        $this->dateNaissance = $dateNaissance;
+
+        return $this;
+    }
+
+    /**
+     * Get dateNaissance
+     *
+     * @return \DateTime
+     */
+    public function getDateNaissance()
+    {
+        return $this->dateNaissance;
     }
 }
