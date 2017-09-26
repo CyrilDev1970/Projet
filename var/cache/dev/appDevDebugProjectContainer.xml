@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <container xmlns="http://symfony.com/schema/dic/services" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
   <parameters>
-    <parameter key="kernel.root_dir">/var/www/cartel_team/app</parameter>
-    <parameter key="kernel.project_dir">/var/www/cartel_team</parameter>
+    <parameter key="kernel.root_dir">C:\wamp64\www\cartel_team\app</parameter>
+    <parameter key="kernel.project_dir">C:\wamp64\www\cartel_team</parameter>
     <parameter key="kernel.environment">dev</parameter>
     <parameter key="kernel.debug">true</parameter>
     <parameter key="kernel.name">app</parameter>
-    <parameter key="kernel.cache_dir">/var/www/cartel_team/var/cache/dev</parameter>
-    <parameter key="kernel.logs_dir">/var/www/cartel_team/var/logs</parameter>
+    <parameter key="kernel.cache_dir">C:\wamp64\www\cartel_team\var\cache\dev</parameter>
+    <parameter key="kernel.logs_dir">C:\wamp64\www\cartel_team\var\logs</parameter>
     <parameter key="kernel.bundles" type="collection">
       <parameter key="FrameworkBundle">Symfony\Bundle\FrameworkBundle\FrameworkBundle</parameter>
       <parameter key="SecurityBundle">Symfony\Bundle\SecurityBundle\SecurityBundle</parameter>
@@ -26,67 +26,67 @@
     <parameter key="kernel.bundles_metadata" type="collection">
       <parameter key="FrameworkBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle</parameter>
         <parameter key="namespace">Symfony\Bundle\FrameworkBundle</parameter>
       </parameter>
       <parameter key="SecurityBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\SecurityBundle</parameter>
         <parameter key="namespace">Symfony\Bundle\SecurityBundle</parameter>
       </parameter>
       <parameter key="TwigBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle</parameter>
         <parameter key="namespace">Symfony\Bundle\TwigBundle</parameter>
       </parameter>
       <parameter key="MonologBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/monolog-bundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\monolog-bundle</parameter>
         <parameter key="namespace">Symfony\Bundle\MonologBundle</parameter>
       </parameter>
       <parameter key="SwiftmailerBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/swiftmailer-bundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\swiftmailer-bundle</parameter>
         <parameter key="namespace">Symfony\Bundle\SwiftmailerBundle</parameter>
       </parameter>
       <parameter key="DoctrineBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/doctrine/doctrine-bundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\doctrine\doctrine-bundle</parameter>
         <parameter key="namespace">Doctrine\Bundle\DoctrineBundle</parameter>
       </parameter>
       <parameter key="SensioFrameworkExtraBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/sensio/framework-extra-bundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\sensio\framework-extra-bundle</parameter>
         <parameter key="namespace">Sensio\Bundle\FrameworkExtraBundle</parameter>
       </parameter>
       <parameter key="AppBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/src/AppBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\src\AppBundle</parameter>
         <parameter key="namespace">AppBundle</parameter>
       </parameter>
       <parameter key="DebugBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/DebugBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\DebugBundle</parameter>
         <parameter key="namespace">Symfony\Bundle\DebugBundle</parameter>
       </parameter>
       <parameter key="WebProfilerBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle</parameter>
         <parameter key="namespace">Symfony\Bundle\WebProfilerBundle</parameter>
       </parameter>
       <parameter key="SensioDistributionBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/sensio/distribution-bundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\sensio\distribution-bundle</parameter>
         <parameter key="namespace">Sensio\Bundle\DistributionBundle</parameter>
       </parameter>
       <parameter key="SensioGeneratorBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/sensio/generator-bundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\sensio\generator-bundle</parameter>
         <parameter key="namespace">Sensio\Bundle\GeneratorBundle</parameter>
       </parameter>
       <parameter key="WebServerBundle" type="collection">
         <parameter key="parent">null</parameter>
-        <parameter key="path">/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/WebServerBundle</parameter>
+        <parameter key="path">C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\WebServerBundle</parameter>
         <parameter key="namespace">Symfony\Bundle\WebServerBundle</parameter>
       </parameter>
     </parameter>
@@ -116,7 +116,7 @@
       <parameter key="cookie_httponly">true</parameter>
       <parameter key="gc_probability">1</parameter>
     </parameter>
-    <parameter key="session.save_path">/var/www/cartel_team/var/sessions/dev</parameter>
+    <parameter key="session.save_path">C:\wamp64\www\cartel_team/var/sessions/dev</parameter>
     <parameter key="session.metadata.update_threshold">0</parameter>
     <parameter key="form.type_extension.csrf.enabled">true</parameter>
     <parameter key="form.type_extension.csrf.field_name">_token</parameter>
@@ -125,13 +125,13 @@
       <parameter>twig</parameter>
     </parameter>
     <parameter key="validator.mapping.cache.prefix"></parameter>
-    <parameter key="validator.mapping.cache.file">/var/www/cartel_team/var/cache/dev/validation.php</parameter>
+    <parameter key="validator.mapping.cache.file">C:\wamp64\www\cartel_team\var\cache\dev/validation.php</parameter>
     <parameter key="validator.translation_domain">validators</parameter>
     <parameter key="profiler_listener.only_exceptions">false</parameter>
     <parameter key="profiler_listener.only_master_requests">false</parameter>
-    <parameter key="profiler.storage.dsn">file:/var/www/cartel_team/var/cache/dev/profiler</parameter>
+    <parameter key="profiler.storage.dsn">file:C:\wamp64\www\cartel_team\var\cache\dev/profiler</parameter>
     <parameter key="debug.error_handler.throw_at">-1</parameter>
-    <parameter key="debug.container.dump">/var/www/cartel_team/var/cache/dev/appDevDebugProjectContainer.xml</parameter>
+    <parameter key="debug.container.dump">C:\wamp64\www\cartel_team\var\cache\dev/appDevDebugProjectContainer.xml</parameter>
     <parameter key="router.options.generator_class">Symfony\Component\Routing\Generator\UrlGenerator</parameter>
     <parameter key="router.options.generator_base_class">Symfony\Component\Routing\Generator\UrlGenerator</parameter>
     <parameter key="router.options.generator_dumper_class">Symfony\Component\Routing\Generator\Dumper\PhpGeneratorDumper</parameter>
@@ -143,7 +143,7 @@
     <parameter key="router.request_context.host">localhost</parameter>
     <parameter key="router.request_context.scheme">http</parameter>
     <parameter key="router.request_context.base_url"></parameter>
-    <parameter key="router.resource">/var/www/cartel_team/app/config/routing_dev.yml</parameter>
+    <parameter key="router.resource">C:\wamp64\www\cartel_team/app/config/routing_dev.yml</parameter>
     <parameter key="router.cache_class_prefix">appDevDebugProjectContainer</parameter>
     <parameter key="request_listener.http_port">80</parameter>
     <parameter key="request_listener.https_port">443</parameter>
@@ -202,7 +202,7 @@
     <parameter key="swiftmailer.mailer.default.transport.smtp.timeout">30</parameter>
     <parameter key="swiftmailer.mailer.default.transport.smtp.source_ip">null</parameter>
     <parameter key="swiftmailer.mailer.default.transport.smtp.local_domain">null</parameter>
-    <parameter key="swiftmailer.spool.default.memory.path">/var/www/cartel_team/var/cache/dev/swiftmailer/spool/default</parameter>
+    <parameter key="swiftmailer.spool.default.memory.path">C:\wamp64\www\cartel_team\var\cache\dev/swiftmailer/spool/default</parameter>
     <parameter key="swiftmailer.mailer.default.spool.enabled">true</parameter>
     <parameter key="swiftmailer.mailer.default.plugin.impersonate">null</parameter>
     <parameter key="swiftmailer.mailer.default.single_address">null</parameter>
@@ -321,7 +321,7 @@
     <parameter key="doctrine.orm.second_level_cache.cache_configuration.class">Doctrine\ORM\Cache\CacheConfiguration</parameter>
     <parameter key="doctrine.orm.second_level_cache.regions_configuration.class">Doctrine\ORM\Cache\RegionsConfiguration</parameter>
     <parameter key="doctrine.orm.auto_generate_proxy_classes">true</parameter>
-    <parameter key="doctrine.orm.proxy_dir">/var/www/cartel_team/var/cache/dev/doctrine/orm/Proxies</parameter>
+    <parameter key="doctrine.orm.proxy_dir">C:\wamp64\www\cartel_team\var\cache\dev/doctrine/orm/Proxies</parameter>
     <parameter key="doctrine.orm.proxy_namespace">Proxies</parameter>
     <parameter key="sensio_framework_extra.view.guesser.class">Sensio\Bundle\FrameworkExtraBundle\Templating\TemplateGuesser</parameter>
     <parameter key="sensio_framework_extra.controller.listener.class">Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener</parameter>
@@ -461,10 +461,10 @@
       <tag name="kernel.event_subscriber"/>
       <argument type="service" id="controller_name_converter"/>
     </service>
-    <service id="2_ac5d1482369e3a861bd7dd2b5dd5e6e0d198fc22a5dcc957e74c1519a1806f73" class="Symfony\Component\Config\Resource\SelfCheckingResourceChecker" public="false">
+    <service id="2_95d90c46210fc4dd88cc5ff5a7c5384acbd244776d9006369885963c42ec22e2" class="Symfony\Component\Config\Resource\SelfCheckingResourceChecker" public="false">
       <tag name="config_cache.resource_checker" priority="-990"/>
     </service>
-    <service id="1_ac5d1482369e3a861bd7dd2b5dd5e6e0d198fc22a5dcc957e74c1519a1806f73" class="Symfony\Component\DependencyInjection\Config\ContainerParametersResourceChecker" public="false">
+    <service id="1_95d90c46210fc4dd88cc5ff5a7c5384acbd244776d9006369885963c42ec22e2" class="Symfony\Component\DependencyInjection\Config\ContainerParametersResourceChecker" public="false">
       <tag name="config_cache.resource_checker" priority="-980"/>
       <argument type="service" id="service_container"/>
     </service>
@@ -506,9 +506,9 @@
     <service id="filesystem" class="Symfony\Component\Filesystem\Filesystem"/>
     <service id="file_locator" class="Symfony\Component\HttpKernel\Config\FileLocator">
       <argument type="service" id="kernel"/>
-      <argument>/var/www/cartel_team/app/Resources</argument>
+      <argument>C:\wamp64\www\cartel_team\app/Resources</argument>
       <argument type="collection">
-        <argument>/var/www/cartel_team/app</argument>
+        <argument>C:\wamp64\www\cartel_team\app</argument>
       </argument>
     </service>
     <service id="uri_signer" class="Symfony\Component\HttpKernel\UriSigner">
@@ -516,8 +516,8 @@
     </service>
     <service id="config_cache_factory" class="Symfony\Component\Config\ResourceCheckerConfigCacheFactory">
       <argument type="iterator">
-        <argument type="service" id="1_ac5d1482369e3a861bd7dd2b5dd5e6e0d198fc22a5dcc957e74c1519a1806f73"/>
-        <argument type="service" id="2_ac5d1482369e3a861bd7dd2b5dd5e6e0d198fc22a5dcc957e74c1519a1806f73"/>
+        <argument type="service" id="1_95d90c46210fc4dd88cc5ff5a7c5384acbd244776d9006369885963c42ec22e2"/>
+        <argument type="service" id="2_95d90c46210fc4dd88cc5ff5a7c5384acbd244776d9006369885963c42ec22e2"/>
       </argument>
     </service>
     <service id="fragment.handler" class="Symfony\Component\HttpKernel\DependencyInjection\LazyLoadingFragmentHandler">
@@ -601,8 +601,8 @@
       <tag name="monolog.logger" channel="cache"/>
       <argument></argument>
       <argument>0</argument>
-      <argument>+G6XM8vMIiiYUZedbzNKJ5</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>pvWoD-Egv3LfNXXR3X6LUA</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       <factory class="Symfony\Component\Cache\Adapter\AbstractAdapter" method="createSystemCache"/>
     </service>
@@ -611,7 +611,7 @@
       <tag name="monolog.logger" channel="cache"/>
       <argument></argument>
       <argument>0</argument>
-      <argument>+G6XM8vMIiiYUZedbzNKJ5</argument>
+      <argument>pvWoD-Egv3LfNXXR3X6LUA</argument>
       <call method="setLogger">
         <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       </call>
@@ -631,7 +631,7 @@
       <tag name="monolog.logger" channel="cache"/>
       <argument></argument>
       <argument>0</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <call method="setLogger">
         <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       </call>
@@ -670,7 +670,7 @@
       <argument type="service" id="translator.selector"/>
     </service>
     <service id="translator.selector" class="Symfony\Component\Translation\MessageSelector" public="false"/>
-    <service id="1_6cd97c48a3d232e08a381f734c29407cb1c412f3ae289ab629af207e5b8c6483" class="Symfony\Component\DependencyInjection\ServiceLocator" public="false">
+    <service id="1_28f60581f9c03e4a5e380ea222a28ae4f3f462918e29c84fa3ce616b424336a3" class="Symfony\Component\DependencyInjection\ServiceLocator" public="false">
       <tag name="container.service_locator"/>
       <argument type="collection">
         <argument key="session" type="service" id="session" on-invalid="ignore"/>
@@ -700,23 +700,23 @@
     <service id="session.flash_bag" class="Symfony\Component\HttpFoundation\Session\Flash\FlashBag" public="false"/>
     <service id="session.attribute_bag" class="Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag" public="false"/>
     <service id="session.storage.mock_file" class="Symfony\Component\HttpFoundation\Session\Storage\MockFileSessionStorage" public="false">
-      <argument>/var/www/cartel_team/var/cache/dev/sessions</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/sessions</argument>
       <argument>MOCKSESSID</argument>
       <argument type="service" id="session.storage.metadata_bag"/>
     </service>
     <service id="session.handler.native_file" class="Symfony\Component\HttpFoundation\Session\Storage\Handler\NativeFileSessionHandler" public="false">
-      <argument>/var/www/cartel_team/var/sessions/dev</argument>
+      <argument>C:\wamp64\www\cartel_team/var/sessions/dev</argument>
     </service>
     <service id="session.handler.write_check" class="Symfony\Component\HttpFoundation\Session\Storage\Handler\WriteCheckSessionHandler" public="false"/>
     <service id="session_listener" class="Symfony\Component\HttpKernel\EventListener\SessionListener">
       <tag name="kernel.event_subscriber"/>
-      <argument type="service" id="1_6cd97c48a3d232e08a381f734c29407cb1c412f3ae289ab629af207e5b8c6483"/>
+      <argument type="service" id="1_28f60581f9c03e4a5e380ea222a28ae4f3f462918e29c84fa3ce616b424336a3"/>
     </service>
     <service id="session.save_listener" class="Symfony\Component\HttpKernel\EventListener\SaveSessionListener">
       <tag name="kernel.event_subscriber"/>
     </service>
     <service id="form.resolved_type_factory" class="Symfony\Component\Form\Extension\DataCollector\Proxy\ResolvedTypeFactoryDataCollectorProxy">
-      <argument type="service" id="1_ebedd25d19aa4cc0560927a4bb0d57192efd8733d12dcad01f8f26c8e691fe2b"/>
+      <argument type="service" id="1_8f21cc903b627e0f100af68d130d2f81209fc9a3603e90f9084a92a8c6e16635"/>
       <argument type="service" id="data_collector.form"/>
     </service>
     <service id="form.registry" class="Symfony\Component\Form\FormRegistry">
@@ -963,12 +963,12 @@
     <service id="templating.filename_parser" class="Symfony\Bundle\FrameworkBundle\Templating\TemplateFilenameParser"/>
     <service id="templating.locator" class="Symfony\Bundle\FrameworkBundle\Templating\Loader\TemplateLocator" public="false">
       <argument type="service" id="file_locator"/>
-      <argument>/var/www/cartel_team/var/cache/dev</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev</argument>
     </service>
     <service id="templating.finder" class="Symfony\Bundle\FrameworkBundle\CacheWarmer\TemplateFinder" public="false">
       <argument type="service" id="kernel"/>
       <argument type="service" id="templating.filename_parser"/>
-      <argument>/var/www/cartel_team/app/Resources</argument>
+      <argument>C:\wamp64\www\cartel_team\app/Resources</argument>
     </service>
     <service id="templating.cache_warmer.template_paths" class="Symfony\Bundle\FrameworkBundle\CacheWarmer\TemplatePathsCacheWarmer" public="false">
       <tag name="kernel.cache_warmer" priority="20"/>
@@ -992,13 +992,13 @@
         <argument type="service" id="monolog.logger.templating" on-invalid="ignore"/>
       </call>
     </service>
-    <service id="2_720bc7b4e8968c36f9afe096f85c70a951e0bef080489e597d1bbbeb97eb1d8e" class="Doctrine\Common\Cache\ApcCache" public="false">
+    <service id="2_8fc40eb7e453b033673301ef128b45b6278ebd8e453807eb967b8b20fc58a8b8" class="Doctrine\Common\Cache\ApcCache" public="false">
       <call method="setNamespace">
         <argument></argument>
       </call>
     </service>
-    <service id="1_720bc7b4e8968c36f9afe096f85c70a951e0bef080489e597d1bbbeb97eb1d8e" class="Symfony\Component\Cache\Adapter\PhpArrayAdapter" public="false">
-      <argument>/var/www/cartel_team/var/cache/dev/validation.php</argument>
+    <service id="1_8fc40eb7e453b033673301ef128b45b6278ebd8e453807eb967b8b20fc58a8b8" class="Symfony\Component\Cache\Adapter\PhpArrayAdapter" public="false">
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/validation.php</argument>
       <argument type="service" id="cache.validator"/>
       <factory class="Symfony\Component\Cache\Adapter\PhpArrayAdapter" method="create"/>
     </service>
@@ -1017,7 +1017,7 @@
       </call>
       <call method="addXmlMappings">
         <argument type="collection">
-          <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Component/Form/Resources/config/validation.xml</argument>
+          <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Component\Form/Resources/config/validation.xml</argument>
         </argument>
       </call>
       <call method="enableAnnotationMapping">
@@ -1036,14 +1036,14 @@
     <service id="validator.mapping.cache_warmer" class="Symfony\Bundle\FrameworkBundle\CacheWarmer\ValidatorCacheWarmer" public="false">
       <tag name="kernel.cache_warmer"/>
       <argument type="service" id="validator.builder"/>
-      <argument>/var/www/cartel_team/var/cache/dev/validation.php</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/validation.php</argument>
       <argument type="service" id="cache.validator"/>
     </service>
     <service id="validator.mapping.cache.symfony" class="Symfony\Component\Validator\Mapping\Cache\Psr6Cache" public="false">
-      <argument type="service" id="1_720bc7b4e8968c36f9afe096f85c70a951e0bef080489e597d1bbbeb97eb1d8e"/>
+      <argument type="service" id="1_8fc40eb7e453b033673301ef128b45b6278ebd8e453807eb967b8b20fc58a8b8"/>
     </service>
     <service id="validator.mapping.cache.doctrine.apc" class="Symfony\Component\Validator\Mapping\Cache\DoctrineCache" public="false">
-      <argument type="service" id="2_720bc7b4e8968c36f9afe096f85c70a951e0bef080489e597d1bbbeb97eb1d8e"/>
+      <argument type="service" id="2_8fc40eb7e453b033673301ef128b45b6278ebd8e453807eb967b8b20fc58a8b8"/>
     </service>
     <service id="validator.validator_factory" class="Symfony\Component\Validator\ContainerConstraintValidatorFactory" public="false">
       <argument type="service" id="service_locator.39e66930232432ca5ba91e98fdd8a17b"/>
@@ -1114,7 +1114,7 @@
       </call>
     </service>
     <service id="profiler.storage" class="Symfony\Component\HttpKernel\Profiler\FileProfilerStorage" public="false">
-      <argument>file:/var/www/cartel_team/var/cache/dev/profiler</argument>
+      <argument>file:C:\wamp64\www\cartel_team\var\cache\dev/profiler</argument>
     </service>
     <service id="profiler_listener" class="Symfony\Component\HttpKernel\EventListener\ProfilerListener">
       <tag name="kernel.event_subscriber"/>
@@ -1148,7 +1148,7 @@
       <tag name="data_collector" template="@WebProfiler/Collector/logger.html.twig" id="logger" priority="300"/>
       <tag name="monolog.logger" channel="profiler"/>
       <argument type="service" id="monolog.logger.profiler" on-invalid="ignore"/>
-      <argument>/var/www/cartel_team/var/cache/dev/appDevDebugProjectContainer</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/appDevDebugProjectContainer</argument>
     </service>
     <service id="data_collector.time" class="Symfony\Component\HttpKernel\DataCollector\TimeDataCollector" public="false">
       <tag name="data_collector" template="@WebProfiler/Collector/time.html.twig" id="time" priority="330"/>
@@ -1185,7 +1185,7 @@
         <argument type="service" id="cache.annotations"/>
       </call>
     </service>
-    <service id="1_ebedd25d19aa4cc0560927a4bb0d57192efd8733d12dcad01f8f26c8e691fe2b" class="Symfony\Component\Form\ResolvedFormTypeFactory" public="false"/>
+    <service id="1_8f21cc903b627e0f100af68d130d2f81209fc9a3603e90f9084a92a8c6e16635" class="Symfony\Component\Form\ResolvedFormTypeFactory" public="false"/>
     <service id="form.type_extension.form.data_collector" class="Symfony\Component\Form\Extension\DataCollector\Type\DataCollectorTypeExtension" public="false">
       <tag name="form.type_extension" extended_type="Symfony\Component\Form\Extension\Core\Type\FormType" extended-type="Symfony\Component\Form\Extension\Core\Type\FormType"/>
       <argument type="service" id="data_collector.form"/>
@@ -1222,7 +1222,7 @@
     <service id="debug.file_link_formatter" class="Symfony\Component\HttpKernel\Debug\FileLinkFormatter" public="false">
       <argument>null</argument>
       <argument type="service" id="request_stack" on-invalid="ignore"/>
-      <argument>/var/www/cartel_team</argument>
+      <argument>C:\wamp64\www\cartel_team</argument>
       <argument>/_profiler/open?file=%%f&amp;line=%%l#line%%l</argument>
     </service>
     <service id="debug.event_dispatcher" class="Symfony\Component\HttpKernel\Debug\TraceableEventDispatcher">
@@ -1622,9 +1622,9 @@
     <service id="router.default" class="Symfony\Bundle\FrameworkBundle\Routing\Router" public="false">
       <tag name="monolog.logger" channel="router"/>
       <argument type="service" id="service_container"/>
-      <argument>/var/www/cartel_team/app/config/routing_dev.yml</argument>
+      <argument>C:\wamp64\www\cartel_team/app/config/routing_dev.yml</argument>
       <argument type="collection">
-        <argument key="cache_dir">/var/www/cartel_team/var/cache/dev</argument>
+        <argument key="cache_dir">C:\wamp64\www\cartel_team\var\cache\dev</argument>
         <argument key="debug">true</argument>
         <argument key="generator_class">Symfony\Component\Routing\Generator\UrlGenerator</argument>
         <argument key="generator_base_class">Symfony\Component\Routing\Generator\UrlGenerator</argument>
@@ -1662,13 +1662,13 @@
       <argument type="service" id="router.request_context" on-invalid="ignore"/>
       <argument type="service" id="monolog.logger.request" on-invalid="ignore"/>
     </service>
-    <service id="3_53f6c2046cbec43f524aec0ae4d45e7015c2325d9ba6cfe1750233f53ede990a" class="Symfony\Component\Cache\Adapter\PhpArrayAdapter" public="false">
-      <argument>/var/www/cartel_team/var/cache/dev/annotations.php</argument>
+    <service id="3_24dbb4812de76d0e838b34de027ce378ad5062d474595bc1962fb654d0c0c953" class="Symfony\Component\Cache\Adapter\PhpArrayAdapter" public="false">
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/annotations.php</argument>
       <argument type="service" id="cache.annotations"/>
       <factory class="Symfony\Component\Cache\Adapter\PhpArrayAdapter" method="create"/>
     </service>
-    <service id="2_53f6c2046cbec43f524aec0ae4d45e7015c2325d9ba6cfe1750233f53ede990a" class="Doctrine\Common\Cache\ArrayCache" public="false"/>
-    <service id="1_53f6c2046cbec43f524aec0ae4d45e7015c2325d9ba6cfe1750233f53ede990a" class="Doctrine\Common\Annotations\AnnotationRegistry" public="false">
+    <service id="2_24dbb4812de76d0e838b34de027ce378ad5062d474595bc1962fb654d0c0c953" class="Doctrine\Common\Cache\ArrayCache" public="false"/>
+    <service id="1_24dbb4812de76d0e838b34de027ce378ad5062d474595bc1962fb654d0c0c953" class="Doctrine\Common\Annotations\AnnotationRegistry" public="false">
       <call method="registerLoader">
         <argument>class_exists</argument>
       </call>
@@ -1676,7 +1676,7 @@
     <service id="annotations.reader" class="Doctrine\Common\Annotations\AnnotationReader" public="false">
       <call method="addGlobalIgnoredName">
         <argument>required</argument>
-        <argument type="service" id="1_53f6c2046cbec43f524aec0ae4d45e7015c2325d9ba6cfe1750233f53ede990a"/>
+        <argument type="service" id="1_24dbb4812de76d0e838b34de027ce378ad5062d474595bc1962fb654d0c0c953"/>
       </call>
     </service>
     <service id="annotations.filesystem_cache" class="Doctrine\Common\Cache\FilesystemCache" public="false">
@@ -1685,11 +1685,11 @@
     <service id="annotations.cache_warmer" class="Symfony\Bundle\FrameworkBundle\CacheWarmer\AnnotationsCacheWarmer" public="false">
       <tag name="kernel.cache_warmer"/>
       <argument type="service" id="annotations.reader"/>
-      <argument>/var/www/cartel_team/var/cache/dev/annotations.php</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/annotations.php</argument>
       <argument type="service" id="cache.annotations"/>
     </service>
     <service id="annotations.cache" class="Symfony\Component\Cache\DoctrineProvider" public="false">
-      <argument type="service" id="3_53f6c2046cbec43f524aec0ae4d45e7015c2325d9ba6cfe1750233f53ede990a"/>
+      <argument type="service" id="3_24dbb4812de76d0e838b34de027ce378ad5062d474595bc1962fb654d0c0c953"/>
     </service>
     <service id="security.authorization_checker" class="Symfony\Component\Security\Core\Authorization\AuthorizationChecker">
       <argument type="service" id="security.token_storage"/>
@@ -2161,12 +2161,12 @@
     </service>
     <service id="security.authentication.listener.anonymous.main" class="Symfony\Component\Security\Http\Firewall\AnonymousAuthenticationListener" public="false">
       <argument type="service" id="security.token_storage"/>
-      <argument>59cbb462d573d6.95934978</argument>
+      <argument>59ca137fa132a2.91080022</argument>
       <argument type="service" id="monolog.logger.security" on-invalid="null"/>
       <argument type="service" id="security.authentication.manager"/>
     </service>
     <service id="security.authentication.provider.anonymous.main" class="Symfony\Component\Security\Core\Authentication\Provider\AnonymousAuthenticationProvider" public="false">
-      <argument>59cbb462d573d6.95934978</argument>
+      <argument>59ca137fa132a2.91080022</argument>
     </service>
     <service id="security.exception_listener.main" class="Symfony\Component\Security\Http\Firewall\ExceptionListener" public="false">
       <argument type="service" id="security.token_storage"/>
@@ -2211,7 +2211,7 @@
           <argument>form_div_layout.html.twig</argument>
         </argument>
         <argument key="autoescape">name</argument>
-        <argument key="cache">/var/www/cartel_team/var/cache/dev/twig</argument>
+        <argument key="cache">C:\wamp64\www\cartel_team\var\cache\dev/twig</argument>
         <argument key="charset">UTF-8</argument>
         <argument key="paths" type="collection"/>
         <argument key="date" type="collection">
@@ -2312,7 +2312,7 @@
     </service>
     <service id="twig.template_iterator" class="Symfony\Bundle\TwigBundle\TemplateIterator" public="false">
       <argument type="service" id="kernel"/>
-      <argument>/var/www/cartel_team/app</argument>
+      <argument>C:\wamp64\www\cartel_team\app</argument>
       <argument type="collection"/>
     </service>
     <service id="twig.template_cache_warmer" class="Symfony\Bundle\TwigBundle\CacheWarmer\TemplateCacheWarmer" public="false">
@@ -2322,44 +2322,44 @@
     </service>
     <service id="twig.loader.native_filesystem" class="Twig\Loader\FilesystemLoader" public="false">
       <argument type="collection"/>
-      <argument>/var/www/cartel_team</argument>
+      <argument>C:\wamp64\www\cartel_team</argument>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle/Resources/views</argument>
         <argument>Framework</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\SecurityBundle/Resources/views</argument>
         <argument>Security</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle/Resources/views</argument>
         <argument>Twig</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/swiftmailer-bundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\swiftmailer-bundle/Resources/views</argument>
         <argument>Swiftmailer</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/doctrine/doctrine-bundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\doctrine\doctrine-bundle/Resources/views</argument>
         <argument>Doctrine</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/src/AppBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\src\AppBundle/Resources/views</argument>
         <argument>App</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/DebugBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\DebugBundle/Resources/views</argument>
         <argument>Debug</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle/Resources/views</argument>
         <argument>WebProfiler</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/app/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\app/Resources/views</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bridge\Twig/Resources/views/Form</argument>
       </call>
     </service>
     <service id="twig.loader.chain" class="Twig\Loader\ChainLoader" public="false"/>
@@ -2384,7 +2384,7 @@
     <service id="twig.extension.code" class="Symfony\Bridge\Twig\Extension\CodeExtension" public="false">
       <tag name="twig.extension"/>
       <argument type="service" id="debug.file_link_formatter" on-invalid="ignore"/>
-      <argument>/var/www/cartel_team/app</argument>
+      <argument>C:\wamp64\www\cartel_team\app</argument>
       <argument>UTF-8</argument>
     </service>
     <service id="twig.extension.routing" class="Symfony\Bridge\Twig\Extension\RoutingExtension" public="false">
@@ -2468,44 +2468,44 @@
       <tag name="twig.loader"/>
       <argument type="service" id="templating.locator"/>
       <argument type="service" id="templating.name_parser"/>
-      <argument>/var/www/cartel_team</argument>
+      <argument>C:\wamp64\www\cartel_team</argument>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle/Resources/views</argument>
         <argument>Framework</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\SecurityBundle/Resources/views</argument>
         <argument>Security</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle/Resources/views</argument>
         <argument>Twig</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/swiftmailer-bundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\swiftmailer-bundle/Resources/views</argument>
         <argument>Swiftmailer</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/doctrine/doctrine-bundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\doctrine\doctrine-bundle/Resources/views</argument>
         <argument>Doctrine</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/src/AppBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\src\AppBundle/Resources/views</argument>
         <argument>App</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/DebugBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\DebugBundle/Resources/views</argument>
         <argument>Debug</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle/Resources/views</argument>
         <argument>WebProfiler</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/app/Resources/views</argument>
+        <argument>C:\wamp64\www\cartel_team\app/Resources/views</argument>
       </call>
       <call method="addPath">
-        <argument>/var/www/cartel_team/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form</argument>
+        <argument>C:\wamp64\www\cartel_team\vendor\symfony\symfony\src\Symfony\Bridge\Twig/Resources/views/Form</argument>
       </call>
     </service>
     <service id="templating.engine.twig" class="Symfony\Bundle\TwigBundle\TwigEngine" public="false">
@@ -2557,7 +2557,7 @@
     </service>
     <service id="monolog.processor.psr_log_message" class="Monolog\Processor\PsrLogMessageProcessor" public="false"/>
     <service id="monolog.handler.main" class="Monolog\Handler\StreamHandler">
-      <argument>/var/www/cartel_team/var/logs/dev.log</argument>
+      <argument>C:\wamp64\www\cartel_team\var\logs/dev.log</argument>
       <argument>100</argument>
       <argument>true</argument>
       <argument>null</argument>
@@ -2576,9 +2576,9 @@
       <argument>100</argument>
       <argument>true</argument>
     </service>
-    <service id="3_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9" class="Swift_Transport_Esmtp_Auth_PlainAuthenticator" public="false"/>
-    <service id="2_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9" class="Swift_Transport_Esmtp_Auth_LoginAuthenticator" public="false"/>
-    <service id="1_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9" class="Swift_Transport_Esmtp_Auth_CramMd5Authenticator" public="false"/>
+    <service id="3_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450" class="Swift_Transport_Esmtp_Auth_PlainAuthenticator" public="false"/>
+    <service id="2_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450" class="Swift_Transport_Esmtp_Auth_LoginAuthenticator" public="false"/>
+    <service id="1_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450" class="Swift_Transport_Esmtp_Auth_CramMd5Authenticator" public="false"/>
     <service id="swiftmailer.mailer.abstract" class="Swift_Mailer" abstract="true">
       <argument type="service" id="swiftmailer.transport"/>
     </service>
@@ -2595,9 +2595,9 @@
     </service>
     <service id="swiftmailer.transport.authhandler.abstract" class="Swift_Transport_Esmtp_AuthHandler" public="false" abstract="true">
       <argument type="collection">
-        <argument type="service" id="1_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9"/>
-        <argument type="service" id="2_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9"/>
-        <argument type="service" id="3_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9"/>
+        <argument type="service" id="1_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450"/>
+        <argument type="service" id="2_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450"/>
+        <argument type="service" id="3_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450"/>
       </argument>
     </service>
     <service id="swiftmailer.transport.eventdispatcher.abstract" class="Swift_Events_SimpleEventDispatcher" public="false" abstract="true"/>
@@ -2609,7 +2609,7 @@
     <service id="swiftmailer.transport.smtp.abstract" class="Swift_Transport_EsmtpTransport" public="false" abstract="true"/>
     <service id="swiftmailer.transport.spool.abstract" class="Swift_Transport_SpoolTransport" public="false" abstract="true"/>
     <service id="swiftmailer.spool.file.abstract" class="Swift_FileSpool" public="false" abstract="true">
-      <argument>/var/www/cartel_team/app/../data/swiftmailer/spool</argument>
+      <argument>C:\wamp64\www\cartel_team\app/../data/swiftmailer/spool</argument>
     </service>
     <service id="swiftmailer.spool.memory.abstract" class="Swift_MemorySpool" public="false" abstract="true"/>
     <service id="swiftmailer.email_sender.listener" class="Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener">
@@ -2624,9 +2624,9 @@
     <service id="swiftmailer.mailer.default.transport.eventdispatcher" class="Swift_Events_SimpleEventDispatcher" public="false"/>
     <service id="swiftmailer.mailer.default.transport.authhandler" class="Swift_Transport_Esmtp_AuthHandler" public="false">
       <argument type="collection">
-        <argument type="service" id="1_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9"/>
-        <argument type="service" id="2_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9"/>
-        <argument type="service" id="3_6252002e8a95945a267bab8f5dbae36e794eb95a3b3cf7b939185c53a5b548d9"/>
+        <argument type="service" id="1_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450"/>
+        <argument type="service" id="2_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450"/>
+        <argument type="service" id="3_35be90e2e0215833af9f4dc90efffff59677f5e646ca8d6a74051399d518b450"/>
       </argument>
       <call method="setUsername">
         <argument>null</argument>
@@ -2838,7 +2838,7 @@
         <argument type="service" id="doctrine.orm.default_metadata_driver"/>
       </call>
       <call method="setProxyDir">
-        <argument>/var/www/cartel_team/var/cache/dev/doctrine/orm/Proxies</argument>
+        <argument>C:\wamp64\www\cartel_team\var\cache\dev/doctrine/orm/Proxies</argument>
       </call>
       <call method="setProxyNamespace">
         <argument>Proxies</argument>
@@ -2865,7 +2865,7 @@
     <service id="doctrine.orm.default_annotation_metadata_driver" class="Doctrine\ORM\Mapping\Driver\AnnotationDriver" public="false">
       <argument type="service" id="annotations.cached_reader"/>
       <argument type="collection">
-        <argument>/var/www/cartel_team/src/AppBundle/Entity</argument>
+        <argument>C:\wamp64\www\cartel_team\src\AppBundle\Entity</argument>
       </argument>
     </service>
     <service id="doctrine.orm.default_metadata_driver" class="Doctrine\Common\Persistence\Mapping\Driver\MappingDriverChain" public="false">
@@ -2876,17 +2876,17 @@
     </service>
     <service id="doctrine_cache.providers.doctrine.orm.default_metadata_cache" class="Doctrine\Common\Cache\ArrayCache">
       <call method="setNamespace">
-        <argument>sf2orm_default_d24ec5b2eed1303987ad1b7883d31165ba790186ea53c754e7dda30a1c64702f</argument>
+        <argument>sf2orm_default_86a99e8bce42a503dd89f51beb3b2648f7afbdb061080b5849bb253b4a195c19</argument>
       </call>
     </service>
     <service id="doctrine_cache.providers.doctrine.orm.default_result_cache" class="Doctrine\Common\Cache\ArrayCache">
       <call method="setNamespace">
-        <argument>sf2orm_default_d24ec5b2eed1303987ad1b7883d31165ba790186ea53c754e7dda30a1c64702f</argument>
+        <argument>sf2orm_default_86a99e8bce42a503dd89f51beb3b2648f7afbdb061080b5849bb253b4a195c19</argument>
       </call>
     </service>
     <service id="doctrine_cache.providers.doctrine.orm.default_query_cache" class="Doctrine\Common\Cache\ArrayCache">
       <call method="setNamespace">
-        <argument>sf2orm_default_d24ec5b2eed1303987ad1b7883d31165ba790186ea53c754e7dda30a1c64702f</argument>
+        <argument>sf2orm_default_86a99e8bce42a503dd89f51beb3b2648f7afbdb061080b5849bb253b4a195c19</argument>
       </call>
     </service>
     <service id="doctrine.orm.default_entity_listener_resolver" class="Doctrine\Bundle\DoctrineBundle\Mapping\ContainerAwareEntityListenerResolver">
@@ -3016,7 +3016,7 @@
         </argument>
       </call>
     </service>
-    <service id="2_1cb2c68603098504011b71ee8ebfb6b5410debb43e663e2df4ccbbf29ecf33c8" class="Symfony\Component\VarDumper\Dumper\HtmlDumper" public="false">
+    <service id="2_a1d1997339f05b2e1edc9e17085772337c1e816c82cd8b3b45507c4248b585ad" class="Symfony\Component\VarDumper\Dumper\HtmlDumper" public="false">
       <argument>null</argument>
       <argument>UTF-8</argument>
       <argument>1</argument>
@@ -3027,7 +3027,7 @@
         </argument>
       </call>
     </service>
-    <service id="1_1cb2c68603098504011b71ee8ebfb6b5410debb43e663e2df4ccbbf29ecf33c8" class="Symfony\Bundle\WebProfilerBundle\Csp\NonceGenerator" public="false"/>
+    <service id="1_a1d1997339f05b2e1edc9e17085772337c1e816c82cd8b3b45507c4248b585ad" class="Symfony\Bundle\WebProfilerBundle\Csp\NonceGenerator" public="false"/>
     <service id="web_profiler.controller.profiler" class="Symfony\Bundle\WebProfilerBundle\Controller\ProfilerController">
       <argument type="service" id="router.default" on-invalid="null"/>
       <argument type="service" id="profiler" on-invalid="null"/>
@@ -3100,7 +3100,7 @@
       </argument>
       <argument>bottom</argument>
       <argument type="service" id="web_profiler.csp.handler"/>
-      <argument>/var/www/cartel_team</argument>
+      <argument>C:\wamp64\www\cartel_team</argument>
     </service>
     <service id="web_profiler.controller.router" class="Symfony\Bundle\WebProfilerBundle\Controller\RouterController">
       <argument type="service" id="profiler" on-invalid="null"/>
@@ -3113,11 +3113,11 @@
       <argument>true</argument>
     </service>
     <service id="web_profiler.csp.handler" class="Symfony\Bundle\WebProfilerBundle\Csp\ContentSecurityPolicyHandler" public="false">
-      <argument type="service" id="1_1cb2c68603098504011b71ee8ebfb6b5410debb43e663e2df4ccbbf29ecf33c8"/>
+      <argument type="service" id="1_a1d1997339f05b2e1edc9e17085772337c1e816c82cd8b3b45507c4248b585ad"/>
     </service>
     <service id="twig.extension.webprofiler" class="Symfony\Bundle\WebProfilerBundle\Twig\WebProfilerExtension" public="false">
       <tag name="twig.extension"/>
-      <argument type="service" id="2_1cb2c68603098504011b71ee8ebfb6b5410debb43e663e2df4ccbbf29ecf33c8"/>
+      <argument type="service" id="2_a1d1997339f05b2e1edc9e17085772337c1e816c82cd8b3b45507c4248b585ad"/>
     </service>
     <service id="web_profiler.debug_toolbar" class="Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener">
       <tag name="kernel.event_subscriber"/>
@@ -3136,12 +3136,12 @@
     </service>
     <service id="web_server.command.server_run" class="Symfony\Bundle\WebServerBundle\Command\ServerRunCommand" public="false">
       <tag name="console.command"/>
-      <argument>/var/www/cartel_team/public</argument>
+      <argument>C:\wamp64\www\cartel_team/public</argument>
       <argument>dev</argument>
     </service>
     <service id="web_server.command.server_start" class="Symfony\Bundle\WebServerBundle\Command\ServerStartCommand" public="false">
       <tag name="console.command"/>
-      <argument>/var/www/cartel_team/public</argument>
+      <argument>C:\wamp64\www\cartel_team/public</argument>
       <argument>dev</argument>
     </service>
     <service id="web_server.command.server_stop" class="Symfony\Bundle\WebServerBundle\Command\ServerStopCommand" public="false">
@@ -3362,42 +3362,42 @@
       <argument>true</argument>
     </service>
     <service id="cache.app.recorder_inner" class="Symfony\Component\Cache\Adapter\FilesystemAdapter" public="false" lazy="true">
-      <argument>C9nJOtEGUm</argument>
+      <argument>7JOXN73e0u</argument>
       <argument>0</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <call method="setLogger">
         <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       </call>
     </service>
     <service id="cache.system.recorder_inner" class="Symfony\Component\Cache\Adapter\AdapterInterface" public="false" lazy="true">
-      <argument>pGlkJeXR7F</argument>
+      <argument>yv1hRq82zm</argument>
       <argument>0</argument>
-      <argument>+G6XM8vMIiiYUZedbzNKJ5</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>pvWoD-Egv3LfNXXR3X6LUA</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       <factory class="Symfony\Component\Cache\Adapter\AbstractAdapter" method="createSystemCache"/>
     </service>
     <service id="cache.validator.recorder_inner" class="Symfony\Component\Cache\Adapter\AdapterInterface" public="false" lazy="true">
-      <argument>uU8qvqb+93</argument>
+      <argument>YOpxHbkYqb</argument>
       <argument>0</argument>
-      <argument>+G6XM8vMIiiYUZedbzNKJ5</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>pvWoD-Egv3LfNXXR3X6LUA</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       <factory class="Symfony\Component\Cache\Adapter\AbstractAdapter" method="createSystemCache"/>
     </service>
     <service id="cache.serializer.recorder_inner" class="Symfony\Component\Cache\Adapter\AdapterInterface" public="false" lazy="true">
-      <argument>-l7OouroSu</argument>
+      <argument>e3dcs0T+zJ</argument>
       <argument>0</argument>
-      <argument>+G6XM8vMIiiYUZedbzNKJ5</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>pvWoD-Egv3LfNXXR3X6LUA</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       <factory class="Symfony\Component\Cache\Adapter\AbstractAdapter" method="createSystemCache"/>
     </service>
     <service id="cache.annotations.recorder_inner" class="Symfony\Component\Cache\Adapter\AdapterInterface" public="false" lazy="true">
-      <argument>OB8lbTtMLX</argument>
+      <argument>eEH5NhgtCG</argument>
       <argument>0</argument>
-      <argument>+G6XM8vMIiiYUZedbzNKJ5</argument>
-      <argument>/var/www/cartel_team/var/cache/dev/pools</argument>
+      <argument>pvWoD-Egv3LfNXXR3X6LUA</argument>
+      <argument>C:\wamp64\www\cartel_team\var\cache\dev/pools</argument>
       <argument type="service" id="monolog.logger.cache" on-invalid="ignore"/>
       <factory class="Symfony\Component\Cache\Adapter\AbstractAdapter" method="createSystemCache"/>
     </service>
@@ -3498,7 +3498,7 @@
     <service id="console.command.symfony_bundle_webserverbundle_command_serverstopcommand" alias="web_server.command.server_stop"/>
     <service id="console.command.symfony_bundle_webserverbundle_command_serverstatuscommand" alias="web_server.command.server_status"/>
     <service id="twig.loader" alias="twig.loader.filesystem"/>
-    <service id="service_locator.b8d2046fb854cde05549fb309e1a80d2" alias="1_6cd97c48a3d232e08a381f734c29407cb1c412f3ae289ab629af207e5b8c6483" public="false"/>
+    <service id="service_locator.b8d2046fb854cde05549fb309e1a80d2" alias="1_28f60581f9c03e4a5e380ea222a28ae4f3f462918e29c84fa3ce616b424336a3" public="false"/>
     <service id="event_dispatcher" alias="debug.event_dispatcher"/>
     <service id="controller_resolver" alias="debug.controller_resolver" public="false"/>
     <service id="argument_resolver" alias="debug.argument_resolver" public="false"/>

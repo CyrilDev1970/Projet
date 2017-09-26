@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6253cc31-7445-4eb2-a12f-037700205bc8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Location.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Location.php" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Location.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/annotations.map" afterPath="$PROJECT_DIR$/var/cache/dev/annotations.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +43,7 @@
       <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Client.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="952">
               <caret line="61" column="7" lean-forward="false" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
               <folding />
             </state>
@@ -48,8 +53,8 @@
       <file leaf-file-name="Vehicule.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="15" selection-end-column="3" />
               <folding>
                 <element signature="e#6#83#0#PHP" expanded="true" />
               </folding>
@@ -60,8 +65,8 @@
       <file leaf-file-name="Location.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Location.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -108,7 +113,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
     <option name="width" value="925" />
     <option name="height" value="1047" />
@@ -128,8 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,525 +196,6 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/composer.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/composer.lock</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/bootstrap.php.cache</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/logs/dev.log</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/composer/autoload_psr4.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/composer/autoload_static.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/composer/installed.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/config.php</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/AppBundle/Entity/Client.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php~</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/+/M/OkHoFnaW8F3X3qrIvk4F</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/1/O/zRfWAjq2l88XnL1Cko9E</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/1/V/XcgKdJ7OjIuBAQPOojkI</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/3/H/7j94mPVfCFng8e2x6S9C</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/4/O/priwNQbilpwcXUD9iylo</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/B/K/kARnTBb-h7+r3ju2ooew</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/C/8/8oVtDuOVFsjLxMN1sH44</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/C/H/0SbCZPzyExO1XvB9YVUU</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/D/4/kVzcxacKwnxCVP5kQJsY</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/E/O/V-isLx4Ca9lQ8iLCj3W7</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/E/U/CwbFV9RflVnaHNSgNuBU</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/H/L/PHNhxvkP2HfdiQrkaKFb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/H/O/YrnPC+B9XRnk6HZc3LDP</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/I/A/LbDHFMlQSDqgElmPMIQS</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/J/Q/mqc58de1yi-jLtkVVabz</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/J/X/+R2rXRL85qMDI-snUfYi</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/M/X/UVy98hqrk23SQykov3qi</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/M/X/vSq8WOKi8+JeIAqdtTgB</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/N/M/WUPMf5Y3RomaKkX-FqXU</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/O/8/QmsTquAPD6J1I7nNhA--</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Q/4/BucSj44EJnCp3KdB2q2U</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Q/D/iVo1STENFFRF5Fzzgzhv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/U/O/EJyfSVL3g6-zQPGH4X2N</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/V/K/uIphMDskmT+GBBtGqYeb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/X/L/9BNZ1CoyebkcPhm-Ny9c</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Y/4/3cFHP+sMFy0kYuvp+umi</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Z/L/YWK5voWwKC5WC4JAslW0</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Z/Y/YeiImfmEd+4H9SH9lEgB</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/.github/ISSUE_TEMPLATE.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Changelog.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/ActivateUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/ChangePasswordCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/CreateUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/DeactivateUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/DemoteUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/PromoteUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Command/RoleCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ChangePasswordController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/GroupController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ProfileController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/RegistrationController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ResettingController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/SecurityController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/DependencyInjection/Compiler/InjectRememberMeServicesPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/DependencyInjection/Compiler/InjectUserCheckerPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/DependencyInjection/Compiler/ValidationPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/DependencyInjection/Configuration.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/DependencyInjection/FOSUserExtension.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Doctrine/CouchDB/UserListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Doctrine/GroupManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Doctrine/UserListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Doctrine/UserManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/FilterGroupResponseEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/FilterUserResponseEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/FormEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/GetResponseGroupEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/GetResponseNullableUserEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/GetResponseUserEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/GroupEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Event/UserEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/AuthenticationListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/EmailConfirmationListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/FlashListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/LastLoginListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/EventListener/ResettingListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOSUserBundle.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOSUserEvents.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/DataTransformer/UserToUsernameTransformer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Factory/FactoryInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Factory/FormFactory.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/ChangePasswordFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/GroupFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/ProfileFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/RegistrationFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/ResettingFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/UsernameFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/LICENSE</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Mailer/Mailer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Mailer/MailerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Mailer/NoopMailer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Mailer/TwigSwiftMailer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Makefile</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/Group.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/GroupInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/GroupManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/GroupManagerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/GroupableInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/User.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/UserInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/UserManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/UserManagerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/README.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/change_password.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/Group.couchdb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/Group.mongodb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/Group.orm.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/User.couchdb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/User.mongodb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/User.orm.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine_group.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/email_confirmation.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/flash_notifications.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/group.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/listeners.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/mailer.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/profile.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/registration.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/resetting.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/all.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/change_password.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/group.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/profile.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/registration.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/resetting.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/security.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/security.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/storage-validation/couchdb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/storage-validation/mongodb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/storage-validation/orm.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/username_form_type.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/util.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/validation.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/validator.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/adding_invitation_registration.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/canonicalizer.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/command_line_tools.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/configuration_reference.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/controller_events.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/custom_storage_layer.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/doctrine.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/emails.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/form_type.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/groups.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/index.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/logging_by_username_or_email.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/overriding_controllers.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/overriding_forms.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/overriding_templates.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/overriding_validation.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/routing.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/doc/user_manager.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.af.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.ar.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.bg.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.ca.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.cs.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.da.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.de.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.el.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.en.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.eo.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.es.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.et.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.eu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.fa.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.fi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.fr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.he.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.hr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.hu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.id.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.it.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.ja.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.ky.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.lb.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.lt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.lv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.nb.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.nl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.pl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.pt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.pt_BR.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.ro.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.ru.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.sk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.sl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.sr_Latn.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.sv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.th.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.tr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.uk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.vi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.zh_CN.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.ar.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.bg.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.ca.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.cs.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.da.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.de.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.el.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.en.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.eo.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.es.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.eu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.fa.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.fi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.fr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.he.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.hr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.hu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.id.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.it.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.ja.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.ky.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.lt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.lv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.nb.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.nl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.pl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.pt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.pt_BR.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.ro.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.ru.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.sk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.sl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.sr_Latn.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.sv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.th.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.tr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.uk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.vi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/validators.zh_CN.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/ChangePassword/change_password.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/ChangePassword/change_password_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/edit.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/edit_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/list.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/list_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/new.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/new_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/show.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Group/show_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/check_email.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/confirmed.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/email.txt.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/check_email.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/email.txt.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/request.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/request_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/reset.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/reset_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/layout.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Security/EmailUserProvider.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Security/LoginManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Security/LoginManagerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Security/UserProvider.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/CanonicalFieldsUpdater.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/Canonicalizer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/CanonicalizerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/LegacyFormHelper.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/PasswordUpdater.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/PasswordUpdaterInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/TokenGenerator.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/TokenGeneratorInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Util/UserManipulator.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Validator/Initializer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/composer.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/phpunit.xml.dist</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/2/6/CRI7S1AjyPr9MstQbuuI</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/2/W/raPtGWHWtaSEzFxm01Iu</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/3/1/M2m-0cV9jZG61T-4qO65</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/3/R/ElaY6n5Qf36XIwrb5WH-</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/4/W/fNhKIhj1TKf1UGnI9R0h</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/6/7/qHAiStv0eZviu4Am-BQE</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/7/3/XCeEp9ltKLuCz6bLd49q</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/7/W/KxkQJoTQln7542RurdAR</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/8/K/FAss4NgqR-Vbcd5a6y9A</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/8/Z/K4lCyRMH1Wqhb0QcbkTd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/A/L/16CeewTeVnw1NJvvngOI</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/A/S/X65GKAJJLFZbqEzGBqi+</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/B/+/DTjt6S0keIlNWmYpHj3U</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/B/C/GPSW4kcuLaOS5LZ7Pn9f</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/B/F/bgrMO+mLhQ5crEfC14mt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/B/G/yAJUtiClYe3PgVdnCHs5</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/E/O/iwNe7qNQoFd4abAwLFmr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/E/W/GGgYe2GX7Z9Se2D3Pnjm</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/F/3/eO7rn8-v2LHpyDVQeF4k</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/F/G/HXiZN7t62K9FlrXj290R</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/F/J/+Q+taUZB7Y1g87kUpNRV</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/F/N/kxtVrRtrlcOl0-i0KDdY</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/F/O/AQIj6CQoXHaBmuPB8zrF</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/G/Z/5aD0qS-iEuCdLgIW0+QK</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/H/D/NqBojvGVHnEnyEE07sol</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/J/M/0tQ1C1VRDG2VUn-4-qD2</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/K/B/WhemDGPN5uB4W4lEQg5X</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/K/L/XBB0geO2PKhpV9a78uuh</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/L/B/NpjyIzdIbCJHUTN5ZoYX</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/L/H/XU6P7wKskHlgaT7RrU73</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/L/R/r0UuURYyqcRn-7OfB58S</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/M/H/1Dj3H3J4bf42D7jNoeVX</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/M/L/G0qJtvpAj7ZcDf1JmCFG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/M/V/vGlvwRqZjblYab4340hj</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/O/P/miIOV8EZZN5FneRHZr1+</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/O/Q/wiB8S3SuPm-bRYCAHF0N</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/O/U/eNTMjsffFt-O21iX0AV7</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/O/X/6LI5Ej15gNbZ0QD4lK5O</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/P/K/AvUUb04HN7VIWaz3KGpe</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/P/O/QmpHmY2nDArMMffZ1HTD</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Q/W/NKnhDgq9-yJm8R0NE9jU</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/R/E/hLmH4qEdPwliXz5nTs5J</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/R/G/TpDi3Bw1UkYNV3ra-p5a</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/R/J/c6R5Ak5h39NbxQ8NaAiG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/S/5/WQHvFVQCVQhLW8NP32Gy</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/S/G/+72qC3WRspDeTTuyQb0e</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/S/S/MaCSgf5x+ywuoVKrzfE4</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/T/+/3NAWAwhbPdFEYojHaTWk</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/T/2/GD+9hxlV-uV4+kkHyLum</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/T/G/4n-9LMYDd+a7+DTJAgTi</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/U/Y/2MIZ1Dt0jULYuy8elYeE</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/V/R/FkiyOA9zBhvw63pEzMul</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/W/A/x2uzyGqBrXv3s9uN98IA</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/X/6/DSokaawqq3kfFglOIiDC</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/X/9/3LM9kqUW9zOl6M700mU9</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/X/F/tZtjdOLDrtIEyKyADkz7</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/X/S/nWR+aenYghS+byVMAZ3y</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Y/Q/2ngIdrnQUVgh8DIr4Z6E</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Y/Q/wo4E-cv91gMDJ7EdAN+n</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/pools/OB8lbTtMLX/Z/C/hXtFH64TyKQYYXoOUsE0</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/profiler/3e/a6/b0a63e</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/profiler/58/a1/68a158</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/profiler/b8/3d/983db8</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/profiler/e7/60/4560e7</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/profiler/index.csv</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/01/012a2ef35b039ecd67144d3c4c9b20028c1d2fe6fd93b8909d5a8fc11a886a2b.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/02/024c799bf03427fa7f6e6c02b3d0fba67c960d19a8e691382793cb1496163e09.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/06/06492af90c0853bb906d269108c734726f92ef4c4a20c49949f16c3a1798b625.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/0c/0cee77ebc338036b70597273298172955d30bde0ee6bc2d9f84551e5fbbde064.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/0f/0fe0fa4bc64eeb85650007cd30703fdd1ebc504df0be4688446b5d51da8406b1.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/14/1407eae22e7247b8bb314f2ee04b72769f8736fa3a1d7edda845434f83594d09.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/15/153afbf78bd26e57282c41cc7ba5bf967f86adc4a1209d36879e86fe341de821.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/1b/1b8548b51cb64d74441fc0c70a1e03cc8efbb4debd5d333c407839f714cc7429.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/1f/1f9a5dd2b1e95512e8d1f7ad14ea266d9828487e6a468d3a87262b31509652ee.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/23/2394fcde811a4e00d36025936f489bd3f8e2f63d3dad39261b96f46a7e4df25f.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/31/31d3fd3ace39c1c9757c16dc07a749d4aa49c1fd0ccfcc44a76e1930d79e0119.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/37/37707c4170d56573e510717ab9a2eb7d04f721826f1e1103af35054d8ae9998f.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/39/39cd514413cc886f34581abf4b913e8bf411a3b02196ad65f4f53579d9919a6e.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/40/40a8f88ffbacfaf0aebaed5f2dfdee66e7e9f8c0f85975ea1a97488c54e6dfb9.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/42/4296e26b446db1329f2c552ec72238d4c32af088842c111505d32847680d9b51.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/49/49b7a8bf4d73e80180d871814c33c814fb668d358aacbffa8b5ac58a6bfddd1b.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/4a/4a4b92989bdd5c3c101f5c18c503e02e33bcd6c02f439fd47596737751239683.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/51/51d532009e974479c83b1144f471225d5a67d11f0416b6057a60fd7fd0dab271.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/56/5694580d00ba93bff5d34c33cbb589ff79de30d8780d491ab713f88faea0fe69.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/5f/5f4c54e39650cf16adb65faaf02657b28a2fe3da597e1f935aa26796d8aae4ff.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/63/63f236a00dde1886b1042ca84611c616102576d562c29600147865e18017d252.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/66/66fceac83731af1da70dcc1d6b91c762854a5508ffad016f78b6ecfdfea4b2a6.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/6a/6a6a519883555e6dd8fdaaf6b249ef77eea32707b62904360cb4e4a731c48670.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/6c/6c12a22f0e97ccb0b43b8cefaa93d13bc6ad76bf64000c99b39b8f57bd5a12a9.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/80/80c1716bbd26c6a72cacf0bb71809f604617007ebaa3e6f653a003e697842335.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/86/86375c37a3363d067e648d079e60f1e943dd54cf7d5215e63bbcb88d1c88cac1.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/87/87466ec607205ab593658703634b73103b5cd116ed3a285b56e4f447a7d03a3d.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/8f/8f92dc9d1db269fb09fdbe0e4537502407ed880ca7671a653afa256cfaac1296.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/90/90a65a6f4e3da5b5d66e9f212e1df2f5271bf3c987bad0247329b79922edcbde.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/91/9148bda1e94c6a89b7cd6b1190c56fda8d219fe7d27e1f1c38405ec68dd4986a.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/93/93ebd669b086cb5843eaa1bbb14d19eca0ae81fd0f67bbc34dbcddd99e59dd56.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/99/99a8f60948d8c2b64ba018dfc0a152a4d7ce37c4a9865c03bbc3173cff3afc77.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/a2/a21628b10ac71cedfedc5d231383fc6938ec299a9a6e3188b278069c9f729ae5.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/a7/a7900317c5e8812f0d403025c84fc1b920af868632ff651306e93edfe22dbf92.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/b1/b12897c29931a741278838ec71cad615f79b9f3e875b34b4ee3fec7fbaba8310.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/b5/b5c55134c109fa63cef6eedfe719ee5e4efec7b5fba6cc4d82092a012fb2629e.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/b6/b6b0041b81d455d5c29c8744907bd286f147f151db129a586e319aff46981fae.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/b8/b802f946d0459bd15589b840286a1d98cfdff2b3b58fcd1358e94a075db3f558.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/ba/ba798dd52e9f3684ad1200a8287303ec393739df49c3cddba132c0c8d013dc06.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/bb/bb9f0212385d1991f043d1b5835b29c5f1108ded9c1da199ccaeb200e5f72215.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/c8/c8f338e5df7bcbc30868f0685f70fd30f9f6800e46faa8cdab534fe2de868198.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/ca/ca14047497110c0f45bc5739337a5bb4b165322b8db09334756a5522c62588b3.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/ca/cabda6f99abbb7b8906efca7a9bcb5c9e9fdce523134649f8aff1807f057f3d2.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/cc/cc0172d0bfd147c6d79fad67d9fbfaf4b7a4f721e90ce9a2374633141683761f.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/cc/cc9593f7d230dc7b11e95b9ea78c328f072d490efdafdc5a105df0dad7e06697.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/cf/cf193bd5456d38898a960c9b9350e024707de0da9a3b4122f20b38157648751b.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/d5/d5eda34063a7d2408d444c540dc9f5e55e64c811400ce8b6226ec352542cd3ec.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/da/dadbbb71aca97b48ac509e2cd4b377a3b05e8ab22ff974d42093526f9f6c302b.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/db/db9794c6c676283bb8208d68d5caec9ff4494cb8815eb5494706f33ed728b538.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/e0/e05503197c46e507c5152a43c6794a5526eec8972d29f39912cda6a6715ae224.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/e4/e477749361f9326bc0d8257b75938e782060870bdb71de88f09ad19b45289a5b.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/e5/e52bddee156fb6c05cae448f54f8ffed78a9b4674119cf2be315ba5629136a14.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/e5/e55635b25719df66e930777a6aad8f664ed31acc3cb681b7f85dc354fa94e1cf.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/f2/f228380d5777c794415a67ac84caaa0a220a94572be9a1b89ba20704fab369e7.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/fc/fcb72160581de9a7c0cb84e3080130a9eb9c366553f270a9b26086bc1eaa25f0.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/dev/twig/ff/fffa2ceb344135ea5fba095395ec3b5a97e42f7831ac0d8b8adea90d2163b7d6.php</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -736,43 +222,42 @@
       <workItem from="1506508387164" duration="1382000" />
       <workItem from="1506515125430" duration="1855000" />
       <workItem from="1506517254516" duration="7381000" />
+      <workItem from="1506415147740" duration="436000" />
     </task>
+    <task id="LOCAL-00001" summary="add use doctrine\ORM\mapping as ORM&#10;&#10;@ORM">
+      <created>1506415351979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506415351979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14314000" />
+    <option name="totallyTimeSpent" value="14750000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="925" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36523652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33932585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -781,11 +266,65 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add use doctrine\ORM\mapping as ORM&#10;&#10;@ORM" />
+    <option name="LAST_COMMIT_MESSAGE" value="add use doctrine\ORM\mapping as ORM&#10;&#10;@ORM" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="61" column="7" lean-forward="false" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#83#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -998,7 +537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Client.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="952">
           <caret line="61" column="7" lean-forward="false" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
           <folding />
         </state>
@@ -1006,8 +545,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Vehicule.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="15" selection-end-column="3" />
           <folding>
             <element signature="e#6#83#0#PHP" expanded="true" />
           </folding>
@@ -1016,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Location.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
           <folding />
         </state>
       </provider>
