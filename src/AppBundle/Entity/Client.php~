@@ -1,0 +1,70 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: lat
+ * Date: 26/09/17
+ * Time: 00:18
+ */
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * @ORM\Entity
+ * @ORM\Table(name="client")
+ */
+class Client
+{
+    /**
+     * @ORM\Column(type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $idClient;
+
+    /**
+     * @ORM\Column(name="nom", type="string", length=45)
+     */
+    private $nom;
+
+    /**
+     * @ORM\Column(name="prenom", type="string", length=45)
+     */
+    private $prenom;
+
+    /**
+     * @ORM\Column(name="dateNaissance", type="string", length=45)
+     */
+    private $dateNaissance;
+
+    /**
+     * @ORM\Column(name="adresse", type="string", length=180)
+     */
+    private $adresse;
+
+    /**
+     * @ORM\Column(name="telephone", type="string", length=12)
+     */
+    private $telephone;
+
+    /**
+     * @ORM\Column(name="numeroPermis", type="string", length=25)
+     */
+    private $numeroPermis;
+
+    /**
+     * @ORM\Column(name="mail", type="string", length=50)
+     */
+    private $mail;
+
+    /**
+     * @ORM\Column(name="password", type="string", length=45)
+     */
+    private $password;
+
+    /**
+     * @ORM\Column(name="role", type="string", length=45)
+     */
+    private $role;
+}
