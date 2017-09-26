@@ -68,6 +68,8 @@ class Vehicule
      */
     private $statut;
 
+    private$image;
+
     /**
      * Set nom
      *
