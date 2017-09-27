@@ -1,0 +1,4 @@
+b0a63e,::1,GET,http://localhost/cartel_team/web/app_dev.php/,1506516475,,200
+68a158,::1,GET,http://localhost/cartel_team/web/app_dev.php/test,1506516493,983db8,200
+983db8,::1,GET,http://localhost/cartel_team/web/app_dev.php/test,1506516493,,500
+4560e7,::1,GET,http://localhost/cartel_team/web/app_dev.php/test,1506516509,,200
